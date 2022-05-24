@@ -40,7 +40,7 @@ function App() {
       <div className="container my-3">
         <Routes>
           <Route
-            path="haroon-test-project"
+            path="/"
             element={
               <TextForm
                 showAlert={showAlert}
