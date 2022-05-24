@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/haroon-test-project/static/css/main.1b85e35d.css",
+    "main.js": "/haroon-test-project/static/js/main.47377adc.js",
+    "index.html": "/haroon-test-project/index.html",
+    "main.1b85e35d.css.map": "/haroon-test-project/static/css/main.1b85e35d.css.map",
+    "main.47377adc.js.map": "/haroon-test-project/static/js/main.47377adc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b85e35d.css",
+    "static/js/main.47377adc.js"
+  ]
+}
