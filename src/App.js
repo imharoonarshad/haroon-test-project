@@ -40,7 +40,7 @@ function App() {
       <div className="container my-3">
         <Routes>
           <Route
-            path="/"
+            path="/haroon-test-project/"
             element={
               <TextForm
                 showAlert={showAlert}
@@ -49,7 +49,7 @@ function App() {
               />
             }
           />
-          <Route path="about" element={<About />} />
+          <Route path="/haroon-test-project/about" element={<About />} />
         </Routes>
       </div>
     </>
