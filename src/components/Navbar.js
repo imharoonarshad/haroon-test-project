@@ -29,11 +29,11 @@ export default function Navbar(props) {
                 Home
               </Link>
             </li>
-            {/* <li className="nav-item">
+            <li className="nav-item">
               <Link to="/about" className="nav-link active" aria-current="page">
                 About
               </Link>
-            </li> */}
+            </li>
 
             <li className="nav-item">
               <a className="nav-link" href="/">
